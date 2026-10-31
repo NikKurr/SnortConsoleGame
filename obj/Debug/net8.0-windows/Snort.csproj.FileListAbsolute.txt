@@ -1,0 +1,6 @@
+C:\Users\NIK\Desktop\Own\8Queens(Astar)method\Snort\obj\Debug\net8.0-windows\Snort.Form1.resources
+C:\Users\NIK\Desktop\Own\8Queens(Astar)method\Snort\obj\Debug\net8.0-windows\Snort.csproj.GenerateResource.cache
+C:\Users\NIK\Desktop\Own\8Queens(Astar)method\Snort\obj\Debug\net8.0-windows\Snort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIK\Desktop\Own\8Queens(Astar)method\Snort\obj\Debug\net8.0-windows\Snort.AssemblyInfoInputs.cache
+C:\Users\NIK\Desktop\Own\8Queens(Astar)method\Snort\obj\Debug\net8.0-windows\Snort.AssemblyInfo.cs
+C:\Users\NIK\Desktop\Own\8Queens(Astar)method\Snort\obj\Debug\net8.0-windows\Snort.csproj.CoreCompileInputs.cache
