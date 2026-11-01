@@ -65,7 +65,6 @@ namespace Snort
             else
             {
                GameState newState = currentState.SetNewColorForCopy(color, cordinates);
-                newState.ChangePlayerMove();
 
                 return newState;
             }

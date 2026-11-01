@@ -4,3 +4,14 @@ C:\Users\NIK\Desktop\Own\8Queens(Astar)method\Snort\obj\Debug\net8.0-windows\Sno
 C:\Users\NIK\Desktop\Own\8Queens(Astar)method\Snort\obj\Debug\net8.0-windows\Snort.AssemblyInfoInputs.cache
 C:\Users\NIK\Desktop\Own\8Queens(Astar)method\Snort\obj\Debug\net8.0-windows\Snort.AssemblyInfo.cs
 C:\Users\NIK\Desktop\Own\8Queens(Astar)method\Snort\obj\Debug\net8.0-windows\Snort.csproj.CoreCompileInputs.cache
+C:\Users\NIK\Desktop\Own\8Queens(Astar)method\Snort\obj\Debug\net8.0-windows\Snort.sourcelink.json
+C:\Users\NIK\Desktop\Own\8Queens(Astar)method\Snort\bin\Debug\net8.0-windows\Snort.exe
+C:\Users\NIK\Desktop\Own\8Queens(Astar)method\Snort\bin\Debug\net8.0-windows\Snort.deps.json
+C:\Users\NIK\Desktop\Own\8Queens(Astar)method\Snort\bin\Debug\net8.0-windows\Snort.runtimeconfig.json
+C:\Users\NIK\Desktop\Own\8Queens(Astar)method\Snort\bin\Debug\net8.0-windows\Snort.dll
+C:\Users\NIK\Desktop\Own\8Queens(Astar)method\Snort\bin\Debug\net8.0-windows\Snort.pdb
+C:\Users\NIK\Desktop\Own\8Queens(Astar)method\Snort\obj\Debug\net8.0-windows\Snort.dll
+C:\Users\NIK\Desktop\Own\8Queens(Astar)method\Snort\obj\Debug\net8.0-windows\refint\Snort.dll
+C:\Users\NIK\Desktop\Own\8Queens(Astar)method\Snort\obj\Debug\net8.0-windows\Snort.pdb
+C:\Users\NIK\Desktop\Own\8Queens(Astar)method\Snort\obj\Debug\net8.0-windows\Snort.genruntimeconfig.cache
+C:\Users\NIK\Desktop\Own\8Queens(Astar)method\Snort\obj\Debug\net8.0-windows\ref\Snort.dll

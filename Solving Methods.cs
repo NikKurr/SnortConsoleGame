@@ -37,7 +37,8 @@ namespace Snort
             Tuple<int, int> bestCords = redPossibleMoves.First();
 
             int aplphaBetaPuring = 0;
-            int best = 
+            Tuple<Tuple<int, int>, int> best = Tuple.Create(redPossibleMoves.First(), -10000);
+
             foreach (var t in redPossibleMoves)
             {
                 GameState newState = _rules.TryApplyMove(state, ColorOfCell.red, t);//creating a new state
@@ -45,14 +46,18 @@ namespace Snort
                 if (_rules.IsGameOver(newState))
                     return t;
 
-                 aplphaBetaPuring = AlphaBetaPuring(newState, (int)dif, -int.MaxValue, int.MaxValue, true);
+                 aplphaBetaPuring = AlphaBetaPuring(newState, (int)dif - 1, -int.MaxValue, int.MaxValue, false);
 
+                if(aplphaBetaPuring > best.Item2)//maximizing
+                {
+                    best = Tuple.Create(t, aplphaBetaPuring);
+                }
             }
 
 
             //choosing best cords
 
-            return bestCords;
+            return best.Item1;
         }
 
         public int AlphaBetaPuring(GameState state, int depth, int alpha, int beta, bool maximizing)
